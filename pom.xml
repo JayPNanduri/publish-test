@@ -100,7 +100,7 @@
     <repository>
       <id>github</id>
       <name>JayPNanduri</name>
-      <url>https://maven.pkg.github.com/JayPNanduri/testrepo</url>
+      <url>https://maven.pkg.github.com/JayPNanduri/publish-test</url>
     </repository>
   </distributionManagement>
 </project>
