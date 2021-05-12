@@ -97,16 +97,10 @@
       <id>ossrh</id>
       <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
     </repository>
-  </distributionManagement>
-  <distributionManagement>
     <repository>
       <id>github</id>
       <name>JayPNanduri</name>
       <url>https://maven.pkg.github.com/JayPNanduri/testrepo</url>
     </repository>
-    <!--    <repository>-->
-    <!--      <id>ossrh</id>-->
-    <!--      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>-->
-    <!--    </repository>-->
   </distributionManagement>
 </project>
